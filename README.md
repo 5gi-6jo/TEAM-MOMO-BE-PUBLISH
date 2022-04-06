@@ -9,8 +9,8 @@
 -|-|-|-
 부팀장 |유진환 | https://github.com/JinhwanU | Back-end
 팀원 |김재훈 | https://github.com/HoduUlmu | Back-end
-팀장 | 장윤철 | | Front-end
-팀원 | 정호상 | | Front-end
+팀장 | 장윤철 | https://github.com/name8965 | Front-end
+팀원 | 정호상 | https://github.com/5aro | Front-end
 
 ### 3. 서비스 소개
 <details>
